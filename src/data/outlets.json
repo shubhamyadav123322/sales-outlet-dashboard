@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "outletName": "Sharma General Store",
+    "ownerName": "Rajesh Sharma",
+    "contactNumber": "9876543210",
+    "address": "Vijay Nagar, Indore, MP",
+    "latitude": 22.7533,
+    "longitude": 75.8937,
+    "status": "Active",
+    "lastVisitDate": "2026-07-20"
+  },
+  {
+    "id": 2,
+    "outletName": "Gupta Mart",
+    "ownerName": "Amit Gupta",
+    "contactNumber": "9826012345",
+    "address": "Palasia, Indore, MP",
+    "latitude": 22.7196,
+    "longitude": 75.8577,
+    "status": "Inactive",
+    "lastVisitDate": "2026-07-15"
+  },
+  {
+    "id": 3,
+    "outletName": "Patel Super Market",
+    "ownerName": "Rakesh Patel",
+    "contactNumber": "9893011122",
+    "address": "Bhanwar Kuan, Indore, MP",
+    "latitude": 22.6888,
+    "longitude": 75.8679,
+    "status": "Prospect",
+    "lastVisitDate": "2026-07-10"
+  },
+  {
+    "id": 4,
+    "outletName": "Verma Kirana",
+    "ownerName": "Suresh Verma",
+    "contactNumber": "9981122334",
+    "address": "Sudama Nagar, Indore, MP",
+    "latitude": 22.6954,
+    "longitude": 75.8278,
+    "status": "Active",
+    "lastVisitDate": "2026-07-23"
+  },
+  {
+    "id": 5,
+    "outletName": "Singh Traders",
+    "ownerName": "Deepak Singh",
+    "contactNumber": "9755512345",
+    "address": "MG Road, Indore, MP",
+    "latitude": 22.7177,
+    "longitude": 75.8333,
+    "status": "Active",
+    "lastVisitDate": "2026-07-18"
+  },
+  {
+    "id": 6,
+    "outletName": "Mehta Foods",
+    "ownerName": "Ankit Mehta",
+    "contactNumber": "9009988776",
+    "address": "Scheme No. 54, Indore, MP",
+    "latitude": 22.7445,
+    "longitude": 75.9006,
+    "status": "Inactive",
+    "lastVisitDate": "2026-07-12"
+  },
+  {
+    "id": 7,
+    "outletName": "Agarwal Department Store",
+    "ownerName": "Pankaj Agarwal",
+    "contactNumber": "9827223344",
+    "address": "Rajendra Nagar, Indore, MP",
+    "latitude": 22.6705,
+    "longitude": 75.8292,
+    "status": "Prospect",
+    "lastVisitDate": "2026-07-08"
+  },
+  {
+    "id": 8,
+    "outletName": "Khandelwal Retail",
+    "ownerName": "Rohit Khandelwal",
+    "contactNumber": "9893556677",
+    "address": "Sapna Sangeeta, Indore, MP",
+    "latitude": 22.7045,
+    "longitude": 75.8702,
+    "status": "Active",
+    "lastVisitDate": "2026-07-24"
+  },
+  {
+    "id": 9,
+    "outletName": "Jain Wholesale",
+    "ownerName": "Vikas Jain",
+    "contactNumber": "9870011223",
+    "address": "Annapurna Road, Indore, MP",
+    "latitude": 22.7012,
+    "longitude": 75.8425,
+    "status": "Inactive",
+    "lastVisitDate": "2026-07-17"
+  },
+  {
+    "id": 10,
+    "outletName": "Yadav Grocery",
+    "ownerName": "Mukesh Yadav",
+    "contactNumber": "9998887776",
+    "address": "Dewas Naka, Indore, MP",
+    "latitude": 22.7539,
+    "longitude": 75.9231,
+    "status": "Prospect",
+    "lastVisitDate": "2026-07-05"
+  }
+]
