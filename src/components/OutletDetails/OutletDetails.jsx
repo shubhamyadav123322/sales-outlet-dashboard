@@ -82,6 +82,10 @@ function OutletDetails({ outlet, closeDetails }) {
           <p>
             <strong>Last Visit Date:</strong> {outlet.lastVisitDate}
           </p>
+          
+           <p>
+            <strong>Last Visit Date:</strong> {outlet.location}
+          </p>
         </div>
 
         <button
