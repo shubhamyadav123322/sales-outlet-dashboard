@@ -1,8 +1,9 @@
+
 [
   {
     "id": 1,
-    "outletName": "Sharma General Store",
-    "ownerName": "Rajesh Sharma",
+    "outletName": "User One",
+    "ownerName": "Shubham Yadva",
     "contactNumber": "9876543210",
     "address": "Vijay Nagar, Indore, MP",
     "latitude": 22.7533,
@@ -12,8 +13,8 @@
   },
   {
     "id": 2,
-    "outletName": "Gupta Mart",
-    "ownerName": "Amit Gupta",
+    "outletName": "User Two",
+    "ownerName": "User Assiment task 2",
     "contactNumber": "9826012345",
     "address": "Palasia, Indore, MP",
     "latitude": 22.7196,
@@ -23,8 +24,8 @@
   },
   {
     "id": 3,
-    "outletName": "Patel Super Market",
-    "ownerName": "Rakesh Patel",
+    "outletName": "User Three",
+    "ownerName": "User Assiment task 3",
     "contactNumber": "9893011122",
     "address": "Bhanwar Kuan, Indore, MP",
     "latitude": 22.6888,
@@ -34,8 +35,8 @@
   },
   {
     "id": 4,
-    "outletName": "Verma Kirana",
-    "ownerName": "Suresh Verma",
+    "outletName": "User Four",
+    "ownerName": "User Assiment task 4",
     "contactNumber": "9981122334",
     "address": "Sudama Nagar, Indore, MP",
     "latitude": 22.6954,
@@ -45,8 +46,8 @@
   },
   {
     "id": 5,
-    "outletName": "Singh Traders",
-    "ownerName": "Deepak Singh",
+    "outletName": "User Five",
+    "ownerName": "User Assiment task 5",
     "contactNumber": "9755512345",
     "address": "MG Road, Indore, MP",
     "latitude": 22.7177,
@@ -56,8 +57,8 @@
   },
   {
     "id": 6,
-    "outletName": "Mehta Foods",
-    "ownerName": "Ankit Mehta",
+    "outletName": "User Six",
+    "ownerName": "User Assiment task 6",
     "contactNumber": "9009988776",
     "address": "Scheme No. 54, Indore, MP",
     "latitude": 22.7445,
@@ -67,8 +68,8 @@
   },
   {
     "id": 7,
-    "outletName": "Agarwal Department Store",
-    "ownerName": "Pankaj Agarwal",
+    "outletName": "User Seven",
+    "ownerName": "User Assiment task 7",
     "contactNumber": "9827223344",
     "address": "Rajendra Nagar, Indore, MP",
     "latitude": 22.6705,
@@ -78,8 +79,8 @@
   },
   {
     "id": 8,
-    "outletName": "Khandelwal Retail",
-    "ownerName": "Rohit Khandelwal",
+    "outletName": "User Eight",
+    "ownerName": "User Assiment task 8",
     "contactNumber": "9893556677",
     "address": "Sapna Sangeeta, Indore, MP",
     "latitude": 22.7045,
@@ -89,8 +90,8 @@
   },
   {
     "id": 9,
-    "outletName": "Jain Wholesale",
-    "ownerName": "Vikas Jain",
+    "outletName": "User Nine",
+    "ownerName": "User Assiment task 9",
     "contactNumber": "9870011223",
     "address": "Annapurna Road, Indore, MP",
     "latitude": 22.7012,
@@ -100,8 +101,8 @@
   },
   {
     "id": 10,
-    "outletName": "Yadav Grocery",
-    "ownerName": "Mukesh Yadav",
+    "outletName": "User Ten",
+    "ownerName": "User Assiment task 10",
     "contactNumber": "9998887776",
     "address": "Dewas Naka, Indore, MP",
     "latitude": 22.7539,

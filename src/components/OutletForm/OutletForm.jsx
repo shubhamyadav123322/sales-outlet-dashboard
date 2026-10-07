@@ -174,7 +174,7 @@ function OutletForm({ onSubmit, onCancel, initialData }) {
           type="submit"
           className="rounded-md bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-700 active:bg-blue-800"
         >
-          Save Outlet
+          User All
         </button>
 
         {onCancel && (

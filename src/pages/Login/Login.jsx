@@ -40,7 +40,7 @@ const Login = () => {
       <div className="w-full max-w-sm rounded-xl border border-slate-200 bg-white p-8 shadow-sm">
         {/* Logo */}
         <div className="mb-6 flex justify-center">
-          <h1 className="text-3xl font-bold text-blue-600">LOGO</h1>
+          <h1 className="text-3xl font-bold text-blue-600">Assessment App Task</h1>
         </div>
 
         {/* Heading */}
@@ -92,7 +92,7 @@ const Login = () => {
             type="submit"
             className="w-full rounded-md bg-blue-600 py-2 text-white transition hover:bg-blue-700"
           >
-            Login
+            All User
           </button>
         </form>
       </div>

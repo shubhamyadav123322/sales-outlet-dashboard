@@ -6,7 +6,7 @@ import OutletCard from "../../components/OutletCard/OutletCard";
 import AddOutlet from "../../components/AddOutlet/AddOutlet";
 import EditOutlet from "../../components/EditOutlet/EditOutlet";
 import OutletDetails from "../../components/OutletDetails/OutletDetails";
-import OutletMap from "../../components/OutletMap/OutletMap";
+// import OutletMap from "../../components/OutletMap/OutletMap";
 
 const CARDS_PER_PAGE = 3;
 
@@ -118,10 +118,10 @@ function Dashboard() {
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:py-4 sm:px-6">
           <div>
             <h1 className="text-lg font-bold tracking-tight text-slate-900 dark:text-slate-100 sm:text-2xl md:text-3xl">
-              Sales Outlet Dashboard
+              Assigment App Task
             </h1>
             <p className="mt-0.5 text-xs text-slate-500 dark:text-slate-400 sm:text-sm">
-              {outlets.length} outlets tracked across your route
+              {outlets.length} All user Countdown
             </p>
           </div>
 
@@ -152,7 +152,7 @@ function Dashboard() {
               onClick={openAdd}
               className="inline-flex shrink-0 items-center gap-1.5 rounded-lg bg-blue-600 px-3 py-2 text-xs font-semibold text-white shadow-sm transition hover:bg-blue-700 active:bg-blue-800 sm:gap-2 sm:px-4 sm:py-2.5 sm:text-sm"
             >
-              <span className="text-sm leading-none sm:text-base">+</span> Add Outlet
+              <span className="text-sm leading-none sm:text-base">+</span> User Added
             </button>
           </div>
         </div>
@@ -167,10 +167,10 @@ function Dashboard() {
           <StatCard label="Prospect" value={prospectCount} color="text-amber-600 dark:text-amber-400" />
         </div>
 
-        {/* Map */}
-        <div className="mb-6 overflow-hidden rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 shadow-sm">
+     
+        {/* <div className="mb-6 overflow-hidden rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 shadow-sm">
           <OutletMap outlets={sortedOutlets} />
-        </div>
+        </div> */}
 
         {/* Filters + Cards side by side */}
         <div className="grid grid-cols-1 gap-6 lg:grid-cols-[260px_1fr]">
